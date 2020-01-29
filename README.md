@@ -1,2 +1,1 @@
-# VanHackChallenges
-Attempting VanHack Challenges
+# Javascript Challeneges
